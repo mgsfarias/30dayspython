@@ -5,7 +5,8 @@ print(tarefa) #Opção 1 somente o input
 
 print(f"O nome da tarefa é {tarefa}") #Opção 2 input em um texto
 
-if tarefa != str:  #Opção 3 validando se o usuário deixa o titulo vazio
+#Opção 3 validando se o usuário deixa o titulo vazio
+if tarefa != str:  
     print("Titulo invalido")
 else:
     print(f"A tarefa {tarefa} é valida")

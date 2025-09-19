@@ -26,5 +26,6 @@ print("\n Lista de Tarefas:")
 # percorre a lista de tarefas com enumerate, que retorna (índice, valor)
 # start=1 faz a contagem começar em 1 em vez de 0
 for i, t in enumerate(tarefas, start=1):
+    
     # exibe cada tarefa numerada
     print(f"{i}. {t}")

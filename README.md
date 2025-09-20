@@ -22,13 +22,3 @@ Cada dia possui um arquivo `.py` separado:
 - *(em progresso até o dia 30...)*  
 
 ---
-
-## 🛠️ Tecnologias utilizadas
-- [Python 3](https://www.python.org/)  
-
----
-
-## 📌 Como usar
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/30dayspython.git
